@@ -16,7 +16,7 @@ const Error = () => {
     </div>
   ));
   return (
-    <main className="flex min-h-[100dvh] flex-col items-center justify-center bg-slate-300 bg-[url('/ft-bg.webp')] bg-contain bg-fixed bg-left bg-no-repeat font-inter text-slate-500">
+    <main className="flex min-h-[100dvh] flex-col items-center justify-center bg-slate-300 bg-[url('/images/ft-bg.webp')] bg-contain bg-fixed bg-left bg-no-repeat font-inter text-slate-500">
       <FlipTilt
         className="w-[300px] max-w-[90%]"
         tabIndex={0}
