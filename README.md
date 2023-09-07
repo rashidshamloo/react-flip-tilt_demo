@@ -14,6 +14,7 @@ This is the Demo for the [react-flip-tilt](https://www.npmjs.com/package/react-f
 
 - Main Demo: https://rashidshamloo.github.io/react-flip-tilt_demo
 - Parallax Demo: https://rashidshamloo.github.io/react-flip-tilt_demo/parallax
+- Flip Direction Demo: https://rashidshamloo.github.io/react-flip-tilt_demo/flip-direction
 - Control Element Demo: https://rashidshamloo.github.io/react-flip-tilt_demo/control-element
 - react-flip-tilt Package: https://www.npmjs.com/package/react-flip-tilt
 - react-flip-tilt Repository: https://github.com/rashidshamloo/react-flip-tilt
@@ -37,14 +38,23 @@ This is the Demo for the [react-flip-tilt](https://www.npmjs.com/package/react-f
  
   ![Main Demo Mobile Screenshot](screenshot-main-mobile.png)
 
-- Parallax Demo
+- Main Demo (Parallax)
   - Desktop
  
   ![Parallax Demo Desktop Screenshot](screenshot-parallax-desktop.png)
 
   - Mobile
   
-  <p><img src="screenshot-parallax-mobile.png" alt="Parallax Demo Mobile Screenshot" height="700" /></p>
+  ![Parallax Demo Mobile Screenshot](screenshot-parallax-mobile.png)
+
+- Main Demo (Parallax)
+  - Desktop
+ 
+  ![Flip Direction Demo Desktop Screenshot](screenshot-flip-direction-desktop.png)
+
+  - Mobile
+  
+  <p><img src="screenshot-flip-direction-mobile.png" alt="Flip Direction Demo Mobile Screenshot" height="700" /></p>
 
 - Control Element Demo
   - Desktop
@@ -97,6 +107,7 @@ This is the Demo for the [react-flip-tilt](https://www.npmjs.com/package/react-f
   - <a href="https://unsplash.com/@s_erwin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sam Erwin</a> on <a href="https://unsplash.com/photos/VD-4BhSGTLI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
   - <a href="https://unsplash.com/@yoksel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yoksel 🌿 Zok</a> on <a href="https://unsplash.com/photos/bh0ai10Cxc4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Images in Main Demo (Parallax) by [Yuliya Pauliukevich](https://www.vecteezy.com/members/klyaksun) on [vecteezy.com](https://www.vecteezy.com/)
 
 ## Useful Resources
 

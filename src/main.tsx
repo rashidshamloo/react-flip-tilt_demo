@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import MainDemo from './pages/MainDemo';
-import ParallaxDemo from './pages/ParallaxDemo';
+import MainDemoWithParallax from './pages/MainDemoWithParallax';
+import FlipDirectionDemo from './pages/FlipDirectionDemo';
 import ControlElementDemo from './pages/ControlElementDemo';
 import Error from './pages/Error';
 import './index.css';
@@ -21,7 +22,11 @@ const router = createBrowserRouter(
     },
     {
       path: '/parallax',
-      element: <ParallaxDemo />,
+      element: <MainDemoWithParallax />,
+    },
+    {
+      path: '/flip-direction',
+      element: <FlipDirectionDemo />,
     },
     {
       path: '/control-element',

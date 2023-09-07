@@ -14,9 +14,6 @@ const ControlElementDemo = () => {
   // media query
   const isLarge = useMediaQuery({ query: '(min-width: 1024px)' });
 
-  // ref state
-  // const pointerInsideWindow = useRef(false);
-
   // state
   const [controlGroup1, setControlGroup1] = useState<boolean[]>([]);
   const [controlGroup2, setControlGroup2] = useState<boolean[]>([]);
