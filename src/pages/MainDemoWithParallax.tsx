@@ -259,6 +259,7 @@ function App() {
               <FlipTilt
                 type="parallax"
                 overflowHiddenEnable={true}
+                animationMode="edge-to-edge-x"
                 ref={(r) => {
                   if (r && refs.current) refs.current[i] = r;
                 }}
